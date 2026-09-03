@@ -1,18 +1,2 @@
-<img width="893" height="533" alt="1" src="https://github.com/user-attachments/assets/41dd9f40-62f7-467f-aecd-4d97da3b3e1b" />
-# verve
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="540" height="1138" alt="WhatsApp Image 2026-09-03 at 4 07 45 AM (2)" src="https://github.com/user-attachments/assets/089e65cb-8e6e-4804-a35e-d29ba6c35533" />
+<img width="540" height="1150" alt="WhatsApp Image 2026-09-03 at 4 07 45 AM (4)" src="https://github.com/user-attachments/assets/8fd633d3-d85a-4803-a0fb-f97498912346" />
