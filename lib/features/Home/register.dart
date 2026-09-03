@@ -336,7 +336,7 @@ class _RegisterPageState extends State<RegisterPage> {
                       ),
                     ),
 
-                    const SizedBox(height: 110), // Terms
+                    const SizedBox(height: 300), // Terms
                     const Center(
                       child: Text.rich(
                         TextSpan(
