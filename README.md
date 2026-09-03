@@ -1,8 +1,6 @@
-<h3>📱 Verve - E-Commerce Mobile Application</h3>
+<h3>📱 Verve - E-Commerce Mobile App</h3>
 <p>
-  <b>Verve</b> is a modern e-commerce mobile application built with <b>Flutter</b>. 
-  It features a clean user interface, seamless navigation, authentication flows, 
-  and built-in validation for an enhanced shopping experience.
+  <b>Verve</b> is an e-commerce mobile application built with <b>Flutter</b> as a hands-on project to practice and apply everything we learned in Flutter development.
 </p>
 
 <table border="1" style="border-collapse: collapse; border-color: #333333;">
