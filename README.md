@@ -41,8 +41,7 @@
 ### 📥 Download App
 You can download and install the latest APK directly on your Android device:
 <p align="left">
-  <a href="https://github.com/Toka-EzzEldin/pawprint/releases/download/v1.0.0/app-release.apk
-">
+  <a href="https://github.com/Toka-EzzEldin/verve_app/releases/download/v1.0.0/app-release.apk">
     <img src="https://img.shields.io/badge/Download_APK-v1.0.0-green?style=for-the-badge&logo=android" alt="Download APK" />
   </a>
 </p>
