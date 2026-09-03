@@ -301,7 +301,7 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                       ),
 
-                      const SizedBox(height: 170),
+                      const SizedBox(height: 360),
                       // Terms
                       Row(
                         mainAxisAlignment: MainAxisAlignment.center,
